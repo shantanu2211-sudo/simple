@@ -1,3 +1,3 @@
-welcome to Git
+Welcome to Git
 
 Git is very simple
